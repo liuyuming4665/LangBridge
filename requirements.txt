@@ -1,0 +1,2 @@
+# 只用标准库 + streamlit，不需要 requests / python-dotenv
+streamlit>=1.32
